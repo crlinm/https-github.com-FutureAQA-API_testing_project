@@ -9,13 +9,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "4236b7359b1164a1",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/4236b7359b1164a1",
+      "uid" : "71103cf3d7f92947",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/71103cf3d7f92947",
       "status" : "passed",
       "time" : {
-        "start" : 1698626852527,
-        "stop" : 1698626852667,
-        "duration" : 140
+        "start" : 1698713252330,
+        "stop" : 1698713252629,
+        "duration" : 299
       }
     } ]
   },
@@ -29,13 +29,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "c7c66f43aa852037",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/c7c66f43aa852037",
+      "uid" : "6d6a3587a0647169",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/6d6a3587a0647169",
       "status" : "passed",
       "time" : {
-        "start" : 1698626855478,
-        "stop" : 1698626855596,
-        "duration" : 118
+        "start" : 1698713259125,
+        "stop" : 1698713259440,
+        "duration" : 315
       }
     } ]
   },
@@ -49,13 +49,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "1fcd3730df64e30",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/1fcd3730df64e30",
+      "uid" : "88551926cf09dfca",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/88551926cf09dfca",
       "status" : "passed",
       "time" : {
-        "start" : 1698626852025,
-        "stop" : 1698626852148,
-        "duration" : 123
+        "start" : 1698713251428,
+        "stop" : 1698713251728,
+        "duration" : 300
       }
     } ]
   },
@@ -69,13 +69,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "af87e2f3d8af260c",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/af87e2f3d8af260c",
+      "uid" : "dd1ed25ba421b158",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/dd1ed25ba421b158",
       "status" : "passed",
       "time" : {
-        "start" : 1698626860125,
-        "stop" : 1698626860254,
-        "duration" : 129
+        "start" : 1698713270279,
+        "stop" : 1698713270599,
+        "duration" : 320
       }
     } ]
   },
@@ -89,13 +89,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "f75cacc50855bfbc",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/f75cacc50855bfbc",
+      "uid" : "34b661ec3128e102",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/34b661ec3128e102",
       "status" : "passed",
       "time" : {
-        "start" : 1698626858450,
-        "stop" : 1698626858695,
-        "duration" : 245
+        "start" : 1698713266270,
+        "stop" : 1698713266904,
+        "duration" : 634
       }
     } ]
   },
@@ -109,13 +109,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "aab4ce4aab8b246",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/aab4ce4aab8b246",
+      "uid" : "e994b0f7e9be6cb9",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/e994b0f7e9be6cb9",
       "status" : "passed",
       "time" : {
-        "start" : 1698626857460,
-        "stop" : 1698626857596,
-        "duration" : 136
+        "start" : 1698713264087,
+        "stop" : 1698713264406,
+        "duration" : 319
       }
     } ]
   },
@@ -129,13 +129,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "ffab0035d7c6b35d",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/ffab0035d7c6b35d",
+      "uid" : "c7dd724c56ee9cc4",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/c7dd724c56ee9cc4",
       "status" : "passed",
       "time" : {
-        "start" : 1698626852931,
-        "stop" : 1698626853080,
-        "duration" : 149
+        "start" : 1698713253231,
+        "stop" : 1698713253533,
+        "duration" : 302
       }
     } ]
   },
@@ -149,13 +149,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "68433224f919234c",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/68433224f919234c",
+      "uid" : "dc8eb4c43188206",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/dc8eb4c43188206",
       "status" : "passed",
       "time" : {
-        "start" : 1698626853208,
-        "stop" : 1698626853357,
-        "duration" : 149
+        "start" : 1698713253851,
+        "stop" : 1698713254169,
+        "duration" : 318
       }
     } ]
   },
@@ -169,14 +169,14 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "d106a132f134f44a",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/d106a132f134f44a",
+      "uid" : "a32e7cfe126ce1",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/a32e7cfe126ce1",
       "status" : "broken",
       "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'status_code'",
       "time" : {
-        "start" : 1698626849843,
-        "stop" : 1698626849994,
-        "duration" : 151
+        "start" : 1698713246667,
+        "stop" : 1698713247034,
+        "duration" : 367
       }
     } ]
   },
@@ -190,13 +190,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "ea989c6aa81a1ef8",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/ea989c6aa81a1ef8",
+      "uid" : "a9a7e1be3a58e6e4",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/a9a7e1be3a58e6e4",
       "status" : "passed",
       "time" : {
-        "start" : 1698626851258,
-        "stop" : 1698626851404,
-        "duration" : 146
+        "start" : 1698713249595,
+        "stop" : 1698713249914,
+        "duration" : 319
       }
     } ]
   },
@@ -210,13 +210,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "649cb61d431d9c43",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/649cb61d431d9c43",
+      "uid" : "ee01cbd098e5fbbd",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/ee01cbd098e5fbbd",
       "status" : "passed",
       "time" : {
-        "start" : 1698626855970,
-        "stop" : 1698626856094,
-        "duration" : 124
+        "start" : 1698713260391,
+        "stop" : 1698713260709,
+        "duration" : 318
       }
     } ]
   },
@@ -230,33 +230,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "b99f846ef001ff32",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/b99f846ef001ff32",
+      "uid" : "dc1bfc32c47426a5",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/dc1bfc32c47426a5",
       "status" : "passed",
       "time" : {
-        "start" : 1698626856096,
-        "stop" : 1698626856213,
-        "duration" : 117
-      }
-    } ]
-  },
-  "cb5704cdf85545f3a5ff4048824d178b" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "766faac440eb4ccd",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/766faac440eb4ccd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1698626859860,
-        "stop" : 1698626859987,
-        "duration" : 127
+        "start" : 1698713260711,
+        "stop" : 1698713261012,
+        "duration" : 301
       }
     } ]
   },
@@ -270,13 +250,33 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "6f6bf04287bc8685",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/6f6bf04287bc8685",
+      "uid" : "6671bed378af7191",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/6671bed378af7191",
       "status" : "passed",
       "time" : {
-        "start" : 1698626854197,
-        "stop" : 1698626854320,
-        "duration" : 123
+        "start" : 1698713256064,
+        "stop" : 1698713256375,
+        "duration" : 311
+      }
+    } ]
+  },
+  "cb5704cdf85545f3a5ff4048824d178b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c397a1b6946bc2ab",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/c397a1b6946bc2ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1698713269633,
+        "stop" : 1698713269952,
+        "duration" : 319
       }
     } ]
   },
@@ -290,34 +290,14 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "8bbfbb755f0a28d1",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/8bbfbb755f0a28d1",
+      "uid" : "185b79dff6d3d3fc",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/185b79dff6d3d3fc",
       "status" : "skipped",
       "statusDetails" : "XFAIL\n\nAssertionError: Wrong status code\nassert 200 == 404\n +  where 200 = <Response [200]>.status_code",
       "time" : {
-        "start" : 1698626850516,
-        "stop" : 1698626850832,
-        "duration" : 316
-      }
-    } ]
-  },
-  "272551ee8a70a5afdbfbd50f7aabcbbd" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "73444e00a72893fd",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/73444e00a72893fd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1698626854574,
-        "stop" : 1698626854574,
-        "duration" : 0
+        "start" : 1698713248345,
+        "stop" : 1698713248644,
+        "duration" : 299
       }
     } ]
   },
@@ -331,13 +311,33 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "ba5e1df618c962c2",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/ba5e1df618c962c2",
+      "uid" : "32e08698d9f04577",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/32e08698d9f04577",
       "status" : "passed",
       "time" : {
-        "start" : 1698626855229,
-        "stop" : 1698626855350,
-        "duration" : 121
+        "start" : 1698713258508,
+        "stop" : 1698713258815,
+        "duration" : 307
+      }
+    } ]
+  },
+  "272551ee8a70a5afdbfbd50f7aabcbbd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6f08b0c9010ac4fc",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/6f08b0c9010ac4fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1698713256993,
+        "stop" : 1698713256993,
+        "duration" : 0
       }
     } ]
   },
@@ -351,13 +351,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "3d1fbe5feeba2781",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/3d1fbe5feeba2781",
+      "uid" : "f085287c0addd4fe",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/f085287c0addd4fe",
       "status" : "passed",
       "time" : {
-        "start" : 1698626852790,
-        "stop" : 1698626852928,
-        "duration" : 138
+        "start" : 1698713252929,
+        "stop" : 1698713253229,
+        "duration" : 300
       }
     } ]
   },
@@ -371,13 +371,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "3e092e5992b12b15",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/3e092e5992b12b15",
+      "uid" : "2cfe88a03f533051",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/2cfe88a03f533051",
       "status" : "passed",
       "time" : {
-        "start" : 1698626857205,
-        "stop" : 1698626857327,
-        "duration" : 122
+        "start" : 1698713263470,
+        "stop" : 1698713263781,
+        "duration" : 311
       }
     } ]
   },
@@ -391,13 +391,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e892ae4abb58724f",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/e892ae4abb58724f",
+      "uid" : "3ab97b2cbe68768b",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/3ab97b2cbe68768b",
       "status" : "passed",
       "time" : {
-        "start" : 1698626853083,
-        "stop" : 1698626853205,
-        "duration" : 122
+        "start" : 1698713253535,
+        "stop" : 1698713253849,
+        "duration" : 314
       }
     } ]
   },
@@ -411,13 +411,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "abe458e110155302",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/abe458e110155302",
+      "uid" : "c7f5f98ce64522dc",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/c7f5f98ce64522dc",
       "status" : "passed",
       "time" : {
-        "start" : 1698626853670,
-        "stop" : 1698626853811,
-        "duration" : 141
+        "start" : 1698713254814,
+        "stop" : 1698713255126,
+        "duration" : 312
       }
     } ]
   },
@@ -431,33 +431,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "ae74334cb029711",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/ae74334cb029711",
+      "uid" : "c434c742f2c1dfb6",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/c434c742f2c1dfb6",
       "status" : "passed",
       "time" : {
-        "start" : 1698626854323,
-        "stop" : 1698626854453,
-        "duration" : 130
-      }
-    } ]
-  },
-  "aea83469df890b68565b2feecc6c3037" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "ef3566f558ce17a7",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/ef3566f558ce17a7",
-      "status" : "passed",
-      "time" : {
-        "start" : 1698626851538,
-        "stop" : 1698626851653,
-        "duration" : 115
+        "start" : 1698713256377,
+        "stop" : 1698713256676,
+        "duration" : 299
       }
     } ]
   },
@@ -471,13 +451,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e6a38a4ea26c6f3",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/e6a38a4ea26c6f3",
+      "uid" : "396046033c8d4517",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/396046033c8d4517",
       "status" : "passed",
       "time" : {
-        "start" : 1698626854060,
-        "stop" : 1698626854194,
-        "duration" : 134
+        "start" : 1698713255749,
+        "stop" : 1698713256062,
+        "duration" : 313
       }
     } ]
   },
@@ -491,13 +471,33 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "aae05eaf0da63117",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/aae05eaf0da63117",
+      "uid" : "42cb7485ad316181",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/42cb7485ad316181",
       "status" : "passed",
       "time" : {
-        "start" : 1698626849516,
-        "stop" : 1698626849644,
-        "duration" : 128
+        "start" : 1698713245961,
+        "stop" : 1698713246276,
+        "duration" : 315
+      }
+    } ]
+  },
+  "aea83469df890b68565b2feecc6c3037" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "11b6016abcb56936",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/11b6016abcb56936",
+      "status" : "passed",
+      "time" : {
+        "start" : 1698713250215,
+        "stop" : 1698713250515,
+        "duration" : 300
       }
     } ]
   },
@@ -511,33 +511,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "ba2001547da1f9f6",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/ba2001547da1f9f6",
+      "uid" : "99b3713303a6978f",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/99b3713303a6978f",
       "status" : "passed",
       "time" : {
-        "start" : 1698626851897,
-        "stop" : 1698626852022,
-        "duration" : 125
-      }
-    } ]
-  },
-  "ceab07c357bf7828e758b97696359afd" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "f851652d3e45f2e1",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/f851652d3e45f2e1",
-      "status" : "passed",
-      "time" : {
-        "start" : 1698626857330,
-        "stop" : 1698626857457,
-        "duration" : 127
+        "start" : 1698713251133,
+        "stop" : 1698713251426,
+        "duration" : 293
       }
     } ]
   },
@@ -551,13 +531,33 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "197b274e4972f11d",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/197b274e4972f11d",
+      "uid" : "85e7ac2ed62e626f",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/85e7ac2ed62e626f",
       "status" : "passed",
       "time" : {
-        "start" : 1698626849254,
-        "stop" : 1698626849513,
-        "duration" : 259
+        "start" : 1698713245612,
+        "stop" : 1698713245958,
+        "duration" : 346
+      }
+    } ]
+  },
+  "ceab07c357bf7828e758b97696359afd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fce90de887ff0568",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/fce90de887ff0568",
+      "status" : "passed",
+      "time" : {
+        "start" : 1698713263784,
+        "stop" : 1698713264084,
+        "duration" : 300
       }
     } ]
   },
@@ -571,13 +571,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "79cf27e7049cffe6",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/79cf27e7049cffe6",
+      "uid" : "eb0eaed46e8cc9e3",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/eb0eaed46e8cc9e3",
       "status" : "passed",
       "time" : {
-        "start" : 1698626856582,
-        "stop" : 1698626856700,
-        "duration" : 118
+        "start" : 1698713261933,
+        "stop" : 1698713262233,
+        "duration" : 300
       }
     } ]
   },
@@ -591,13 +591,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "26ecd89da6f82102",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/26ecd89da6f82102",
+      "uid" : "be4517e75176c4ee",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/be4517e75176c4ee",
       "status" : "passed",
       "time" : {
-        "start" : 1698626855354,
-        "stop" : 1698626855476,
-        "duration" : 122
+        "start" : 1698713258821,
+        "stop" : 1698713259121,
+        "duration" : 300
       }
     } ]
   },
@@ -611,33 +611,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "2a62fb1da1d8ce04",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/2a62fb1da1d8ce04",
+      "uid" : "94a5231fead119a8",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/94a5231fead119a8",
       "status" : "passed",
       "time" : {
-        "start" : 1698626854698,
-        "stop" : 1698626854831,
-        "duration" : 133
-      }
-    } ]
-  },
-  "d2758c25e562d2b59ef0f62dc235410c" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "5faccd700f10a3c7",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/5faccd700f10a3c7",
-      "status" : "passed",
-      "time" : {
-        "start" : 1698626850961,
-        "stop" : 1698626851112,
-        "duration" : 151
+        "start" : 1698713257289,
+        "stop" : 1698713257584,
+        "duration" : 295
       }
     } ]
   },
@@ -651,13 +631,33 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "96866db2934e52f7",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/96866db2934e52f7",
+      "uid" : "3a729b2c31822e40",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/3a729b2c31822e40",
       "status" : "passed",
       "time" : {
-        "start" : 1698626858036,
-        "stop" : 1698626858180,
-        "duration" : 144
+        "start" : 1698713265351,
+        "stop" : 1698713265646,
+        "duration" : 295
+      }
+    } ]
+  },
+  "d2758c25e562d2b59ef0f62dc235410c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7380f333248561a2",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/7380f333248561a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1698713248965,
+        "stop" : 1698713249275,
+        "duration" : 310
       }
     } ]
   },
@@ -671,13 +671,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "c66ee98310d92d57",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/c66ee98310d92d57",
+      "uid" : "979bb360c5821198",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/979bb360c5821198",
       "status" : "passed",
       "time" : {
-        "start" : 1698626858954,
-        "stop" : 1698626859333,
-        "duration" : 379
+        "start" : 1698713267501,
+        "stop" : 1698713268408,
+        "duration" : 907
       }
     } ]
   },
@@ -691,13 +691,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "43c7996e760bf139",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/43c7996e760bf139",
+      "uid" : "8083c7361693132a",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/8083c7361693132a",
       "status" : "passed",
       "time" : {
-        "start" : 1698626859991,
-        "stop" : 1698626860121,
-        "duration" : 130
+        "start" : 1698713269955,
+        "stop" : 1698713270276,
+        "duration" : 321
       }
     } ]
   },
@@ -711,13 +711,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "94929190eaa38d16",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/94929190eaa38d16",
+      "uid" : "da86459a98928a58",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/da86459a98928a58",
       "status" : "passed",
       "time" : {
-        "start" : 1698626859722,
-        "stop" : 1698626859857,
-        "duration" : 135
+        "start" : 1698713269333,
+        "stop" : 1698713269631,
+        "duration" : 298
       }
     } ]
   },
@@ -731,13 +731,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "97b8c2e6853a36b",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/97b8c2e6853a36b",
+      "uid" : "5171647dc754c6e8",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/5171647dc754c6e8",
       "status" : "broken",
       "statusDetails" : "AttributeError: 'StorePage' object has no attribute 'create_pet_with_valid_data'",
       "time" : {
-        "start" : 1698626849807,
-        "stop" : 1698626849807,
+        "start" : 1698713246638,
+        "stop" : 1698713246638,
         "duration" : 0
       }
     } ]
@@ -752,33 +752,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "2cd52e7289cd1287",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/2cd52e7289cd1287",
+      "uid" : "3d4fa6f11ac50282",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/3d4fa6f11ac50282",
       "status" : "passed",
       "time" : {
-        "start" : 1698626859336,
-        "stop" : 1698626859719,
-        "duration" : 383
-      }
-    } ]
-  },
-  "1e6cab4490c8b84c4af2773fe3db9710" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "7929bf2a4d32c8b7",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/7929bf2a4d32c8b7",
-      "status" : "passed",
-      "time" : {
-        "start" : 1698626855598,
-        "stop" : 1698626855720,
-        "duration" : 122
+        "start" : 1698713268411,
+        "stop" : 1698713269330,
+        "duration" : 919
       }
     } ]
   },
@@ -792,13 +772,33 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "af87688b5d851ed0",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/af87688b5d851ed0",
+      "uid" : "a8d26e2f3e97f82e",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/a8d26e2f3e97f82e",
       "status" : "passed",
       "time" : {
-        "start" : 1698626852671,
-        "stop" : 1698626852787,
-        "duration" : 116
+        "start" : 1698713252632,
+        "stop" : 1698713252927,
+        "duration" : 295
+      }
+    } ]
+  },
+  "1e6cab4490c8b84c4af2773fe3db9710" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "49a661a8eee61b01",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/49a661a8eee61b01",
+      "status" : "passed",
+      "time" : {
+        "start" : 1698713259443,
+        "stop" : 1698713259742,
+        "duration" : 299
       }
     } ]
   },
@@ -812,13 +812,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "8877ed9b5acc0072",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/8877ed9b5acc0072",
+      "uid" : "624edc2058694db7",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/624edc2058694db7",
       "status" : "passed",
       "time" : {
-        "start" : 1698626858823,
-        "stop" : 1698626858952,
-        "duration" : 129
+        "start" : 1698713267204,
+        "stop" : 1698713267499,
+        "duration" : 295
       }
     } ]
   },
@@ -832,13 +832,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "7cfc86620f69c2db",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/7cfc86620f69c2db",
+      "uid" : "98eb8b2127f81f04",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/98eb8b2127f81f04",
       "status" : "passed",
       "time" : {
-        "start" : 1698626853813,
-        "stop" : 1698626853931,
-        "duration" : 118
+        "start" : 1698713255129,
+        "stop" : 1698713255430,
+        "duration" : 301
       }
     } ]
   },
@@ -852,13 +852,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "46ef0b320c0e0a3e",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/46ef0b320c0e0a3e",
+      "uid" : "a4a14313fffb7a48",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/a4a14313fffb7a48",
       "status" : "passed",
       "time" : {
-        "start" : 1698626858698,
-        "stop" : 1698626858821,
-        "duration" : 123
+        "start" : 1698713266907,
+        "stop" : 1698713267202,
+        "duration" : 295
       }
     } ]
   },
@@ -872,13 +872,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "16101ae1e3c06924",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/16101ae1e3c06924",
+      "uid" : "40b37755f8ea0cfd",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/40b37755f8ea0cfd",
       "status" : "passed",
       "time" : {
-        "start" : 1698626851657,
-        "stop" : 1698626851770,
-        "duration" : 113
+        "start" : 1698713250517,
+        "stop" : 1698713250812,
+        "duration" : 295
       }
     } ]
   },
@@ -892,13 +892,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "f9c35aec0b564941",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/f9c35aec0b564941",
+      "uid" : "c34427458a2a4420",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/c34427458a2a4420",
       "status" : "passed",
       "time" : {
-        "start" : 1698626858310,
-        "stop" : 1698626858448,
-        "duration" : 138
+        "start" : 1698713265968,
+        "stop" : 1698713266267,
+        "duration" : 299
       }
     } ]
   },
@@ -912,13 +912,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "c91d9f2b521be653",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/c91d9f2b521be653",
+      "uid" : "44a90bf404306f30",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/44a90bf404306f30",
       "status" : "passed",
       "time" : {
-        "start" : 1698626850387,
-        "stop" : 1698626850513,
-        "duration" : 126
+        "start" : 1698713248029,
+        "stop" : 1698713248342,
+        "duration" : 313
       }
     } ]
   },
@@ -932,13 +932,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "9c647d2a3cf56222",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/9c647d2a3cf56222",
+      "uid" : "a75a657fef592b63",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/a75a657fef592b63",
       "status" : "passed",
       "time" : {
-        "start" : 1698626856215,
-        "stop" : 1698626856461,
-        "duration" : 246
+        "start" : 1698713261015,
+        "stop" : 1698713261611,
+        "duration" : 596
       }
     } ]
   },
@@ -952,13 +952,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "616e5c828055afd3",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/616e5c828055afd3",
+      "uid" : "1c4b9311b5955200",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/1c4b9311b5955200",
       "status" : "passed",
       "time" : {
-        "start" : 1698626857600,
-        "stop" : 1698626857758,
-        "duration" : 158
+        "start" : 1698713264409,
+        "stop" : 1698713264710,
+        "duration" : 301
       }
     } ]
   },
@@ -972,13 +972,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "906d781926c93b47",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/906d781926c93b47",
+      "uid" : "b15fb276a8d48030",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/b15fb276a8d48030",
       "status" : "passed",
       "time" : {
-        "start" : 1698626850242,
-        "stop" : 1698626850385,
-        "duration" : 143
+        "start" : 1698713247707,
+        "stop" : 1698713248026,
+        "duration" : 319
       }
     } ]
   },
@@ -992,13 +992,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "4e32e44c03c6757c",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/4e32e44c03c6757c",
+      "uid" : "afe643d87b34acbf",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/afe643d87b34acbf",
       "status" : "passed",
       "time" : {
-        "start" : 1698626856703,
-        "stop" : 1698626857202,
-        "duration" : 499
+        "start" : 1698713262235,
+        "stop" : 1698713263467,
+        "duration" : 1232
       }
     } ]
   },
@@ -1012,13 +1012,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "ef307bfaa4834d34",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/ef307bfaa4834d34",
+      "uid" : "ea1614cdbb00f3b",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/ea1614cdbb00f3b",
       "status" : "passed",
       "time" : {
-        "start" : 1698626851115,
-        "stop" : 1698626851255,
-        "duration" : 140
+        "start" : 1698713249277,
+        "stop" : 1698713249593,
+        "duration" : 316
       }
     } ]
   },
@@ -1032,13 +1032,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "5015435e50d68bbc",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/5015435e50d68bbc",
+      "uid" : "ac9dfd20b4fe93c7",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/ac9dfd20b4fe93c7",
       "status" : "passed",
       "time" : {
-        "start" : 1698626853935,
-        "stop" : 1698626854056,
-        "duration" : 121
+        "start" : 1698713255433,
+        "stop" : 1698713255746,
+        "duration" : 313
       }
     } ]
   },
@@ -1052,13 +1052,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "da02891ef49c2f3",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/da02891ef49c2f3",
+      "uid" : "c68dae3da354e230",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/c68dae3da354e230",
       "status" : "passed",
       "time" : {
-        "start" : 1698626851774,
-        "stop" : 1698626851894,
-        "duration" : 120
+        "start" : 1698713250815,
+        "stop" : 1698713251130,
+        "duration" : 315
       }
     } ]
   },
@@ -1072,13 +1072,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "f17ccc90fc652988",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/f17ccc90fc652988",
+      "uid" : "2381cd460d796d3a",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/2381cd460d796d3a",
       "status" : "passed",
       "time" : {
-        "start" : 1698626853514,
-        "stop" : 1698626853667,
-        "duration" : 153
+        "start" : 1698713254496,
+        "stop" : 1698713254813,
+        "duration" : 317
       }
     } ]
   },
@@ -1092,13 +1092,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "cabf8632272d0608",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/cabf8632272d0608",
+      "uid" : "dc77d958cf1cc199",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/dc77d958cf1cc199",
       "status" : "passed",
       "time" : {
-        "start" : 1698626855104,
-        "stop" : 1698626855224,
-        "duration" : 120
+        "start" : 1698713258204,
+        "stop" : 1698713258505,
+        "duration" : 301
       }
     } ]
   },
@@ -1112,13 +1112,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "d05e1702c8cc5790",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/d05e1702c8cc5790",
+      "uid" : "13c6d0f98b304077",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/13c6d0f98b304077",
       "status" : "passed",
       "time" : {
-        "start" : 1698626851407,
-        "stop" : 1698626851535,
-        "duration" : 128
+        "start" : 1698713249916,
+        "stop" : 1698713250213,
+        "duration" : 297
       }
     } ]
   },
@@ -1132,13 +1132,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e8e218706f89ed35",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/e8e218706f89ed35",
+      "uid" : "f1adea928b1a322",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/f1adea928b1a322",
       "status" : "passed",
       "time" : {
-        "start" : 1698626850839,
-        "stop" : 1698626850959,
-        "duration" : 120
+        "start" : 1698713248648,
+        "stop" : 1698713248962,
+        "duration" : 314
       }
     } ]
   },
@@ -1152,13 +1152,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "75787e6a58c14aca",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/75787e6a58c14aca",
+      "uid" : "65e4a511382b7c36",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/65e4a511382b7c36",
       "status" : "passed",
       "time" : {
-        "start" : 1698626856465,
-        "stop" : 1698626856580,
-        "duration" : 115
+        "start" : 1698713261613,
+        "stop" : 1698713261931,
+        "duration" : 318
       }
     } ]
   },
@@ -1172,13 +1172,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "58687a7185910f2a",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/58687a7185910f2a",
+      "uid" : "5f94123b15836ca4",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/5f94123b15836ca4",
       "status" : "passed",
       "time" : {
-        "start" : 1698626852403,
-        "stop" : 1698626852523,
-        "duration" : 120
+        "start" : 1698713252031,
+        "stop" : 1698713252328,
+        "duration" : 297
       }
     } ]
   },
@@ -1192,13 +1192,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "27c20f4fcfea8e47",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/27c20f4fcfea8e47",
+      "uid" : "8cf01e9b84c7096b",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/8cf01e9b84c7096b",
       "status" : "skipped",
       "statusDetails" : "XFAIL only local\n\nFileNotFoundError: [Errno 2] No such file or directory: 'Smoke.jpg'",
       "time" : {
-        "start" : 1698626854954,
-        "stop" : 1698626854954,
+        "start" : 1698713257884,
+        "stop" : 1698713257884,
         "duration" : 0
       }
     } ]
@@ -1213,13 +1213,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "17e0c2845e07d411",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/17e0c2845e07d411",
+      "uid" : "9c0c0f4b13978f9a",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/9c0c0f4b13978f9a",
       "status" : "passed",
       "time" : {
-        "start" : 1698626850002,
-        "stop" : 1698626850123,
-        "duration" : 121
+        "start" : 1698713247040,
+        "stop" : 1698713247358,
+        "duration" : 318
       }
     } ]
   },
@@ -1233,13 +1233,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "a1a4bf9db566683e",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/a1a4bf9db566683e",
+      "uid" : "97e4fc50047568cf",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/97e4fc50047568cf",
       "status" : "passed",
       "time" : {
-        "start" : 1698626855722,
-        "stop" : 1698626855967,
-        "duration" : 245
+        "start" : 1698713259746,
+        "stop" : 1698713260385,
+        "duration" : 639
       }
     } ]
   },
@@ -1253,13 +1253,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e3fb42fd39de37a2",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/e3fb42fd39de37a2",
+      "uid" : "2465ae943cea15aa",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/2465ae943cea15aa",
       "status" : "passed",
       "time" : {
-        "start" : 1698626852151,
-        "stop" : 1698626852400,
-        "duration" : 249
+        "start" : 1698713251730,
+        "stop" : 1698713252029,
+        "duration" : 299
       }
     } ]
   },
@@ -1273,13 +1273,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "23a5072ed31a0764",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/23a5072ed31a0764",
+      "uid" : "ab08c4ff6224d7ef",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/ab08c4ff6224d7ef",
       "status" : "passed",
       "time" : {
-        "start" : 1698626853360,
-        "stop" : 1698626853511,
-        "duration" : 151
+        "start" : 1698713254171,
+        "stop" : 1698713254493,
+        "duration" : 322
       }
     } ]
   },
@@ -1293,13 +1293,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "c779a655d2f22466",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/c779a655d2f22466",
+      "uid" : "9bbe4247c8170f51",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/9bbe4247c8170f51",
       "status" : "passed",
       "time" : {
-        "start" : 1698626849647,
-        "stop" : 1698626849802,
-        "duration" : 155
+        "start" : 1698713246279,
+        "stop" : 1698713246634,
+        "duration" : 355
       }
     } ]
   },
@@ -1313,13 +1313,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "b9a554c95458c349",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/b9a554c95458c349",
+      "uid" : "ff318528e5888caa",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/ff318528e5888caa",
       "status" : "passed",
       "time" : {
-        "start" : 1698626858184,
-        "stop" : 1698626858308,
-        "duration" : 124
+        "start" : 1698713265649,
+        "stop" : 1698713265966,
+        "duration" : 317
       }
     } ]
   },
@@ -1333,13 +1333,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "beebc0831ac46a57",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/beebc0831ac46a57",
+      "uid" : "de5a78b87750f69d",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/de5a78b87750f69d",
       "status" : "passed",
       "time" : {
-        "start" : 1698626857892,
-        "stop" : 1698626858033,
-        "duration" : 141
+        "start" : 1698713265035,
+        "stop" : 1698713265348,
+        "duration" : 313
       }
     } ]
   },
@@ -1353,13 +1353,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "2265ad3cd74a0d93",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/2265ad3cd74a0d93",
+      "uid" : "ee6b0401caba3c21",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/ee6b0401caba3c21",
       "status" : "passed",
       "time" : {
-        "start" : 1698626857761,
-        "stop" : 1698626857889,
-        "duration" : 128
+        "start" : 1698713264713,
+        "stop" : 1698713265031,
+        "duration" : 318
       }
     } ]
   },
@@ -1373,13 +1373,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "d3fde85b52eaca59",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/d3fde85b52eaca59",
+      "uid" : "b731d095ba29f576",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/b731d095ba29f576",
       "status" : "passed",
       "time" : {
-        "start" : 1698626850126,
-        "stop" : 1698626850240,
-        "duration" : 114
+        "start" : 1698713247360,
+        "stop" : 1698713247705,
+        "duration" : 345
       }
     } ]
   },
@@ -1393,13 +1393,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "180c826bf371b743",
-      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/10//#testresult/180c826bf371b743",
+      "uid" : "79a61fc320b5c80e",
+      "reportUrl" : "https://crlinm.github.io/https-github.com-FutureAQA-API_testing_project/11//#testresult/79a61fc320b5c80e",
       "status" : "passed",
       "time" : {
-        "start" : 1698626860258,
-        "stop" : 1698626860377,
-        "duration" : 119
+        "start" : 1698713270602,
+        "stop" : 1698713270917,
+        "duration" : 315
       }
     } ]
   }
