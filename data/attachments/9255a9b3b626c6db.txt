@@ -1,1 +1,0 @@
-INFO     src\utils\http_methods.py:http_methods.py:49 Response data: {'name': 'Lucy', 'photoUrls': ['https://example.com/image1.jpg'], 'id': '9223372016900053256', 'category': {'id': 85723606, 'name': 'Ragdoll'}, 'tags': [{'id': 467071, 'name': 'Shetland Sheepdog'}, {'id': 51229229, 'name': 'Boxer'}], 'status': 'pending'}
