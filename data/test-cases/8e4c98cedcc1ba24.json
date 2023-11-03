@@ -1,0 +1,68 @@
+{
+  "uid" : "8e4c98cedcc1ba24",
+  "name" : "test_get_by_status_pending",
+  "fullName" : "tests.test_olga_r.test_example#test_get_by_status_pending",
+  "historyId" : "17f5a0295fb4371d6fb5d4ba493dec2f",
+  "time" : {
+    "start" : 1698972461427,
+    "stop" : 1698972461651,
+    "duration" : 224
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1698972450563,
+      "stop" : 1698972450577,
+      "duration" : 14
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "tests.test_olga_r"
+  }, {
+    "name" : "suite",
+    "value" : "test_example"
+  }, {
+    "name" : "host",
+    "value" : "fv-az247-937"
+  }, {
+    "name" : "thread",
+    "value" : "2349-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_olga_r.test_example"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8e4c98cedcc1ba24.json",
+  "parameterValues" : [ ]
+}

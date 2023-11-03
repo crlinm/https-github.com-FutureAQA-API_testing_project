@@ -1,0 +1,68 @@
+{
+  "uid" : "8ce275dcd72ba465",
+  "name" : "test_get_find_pets_by_status_pending",
+  "fullName" : "tests.test_galya.test_example#test_get_find_pets_by_status_pending",
+  "historyId" : "48a778285611ee84e16b4fb324a80ad5",
+  "time" : {
+    "start" : 1698972451807,
+    "stop" : 1698972452175,
+    "duration" : 368
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1698972450563,
+      "stop" : 1698972450577,
+      "duration" : 14
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "tests.test_galya"
+  }, {
+    "name" : "suite",
+    "value" : "test_example"
+  }, {
+    "name" : "host",
+    "value" : "fv-az247-937"
+  }, {
+    "name" : "thread",
+    "value" : "2349-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_galya.test_example"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8ce275dcd72ba465.json",
+  "parameterValues" : [ ]
+}
