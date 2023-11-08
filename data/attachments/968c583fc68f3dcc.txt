@@ -1,3 +1,0 @@
-INFO     src\utils\http_methods.py:http_methods.py:49 Response data: {'name': 'Milo', 'photoUrls': ['https://example.com/image1.jpg'], 'id': '9223372016900019446', 'category': {'id': 58319981, 'name': 'Toyger'}, 'tags': [{'id': 797479, 'name': 'Toyger'}, {'id': 17480115, 'name': 'Snowshoe'}], 'status': 'pending', 'pet_id': '9223372016900032103'}
-INFO     src\utils\http_methods.py:http_methods.py:49 Response data: {'name': 'Milo', 'photoUrls': ['https://example.com/image1.jpg'], 'id': '9223372016900019446', 'category': {'id': 58319981, 'name': 'Toyger'}, 'tags': [{'id': 797479, 'name': 'Toyger'}, {'id': 17480115, 'name': 'Snowshoe'}], 'status': 'pending', 'pet_id': '9223372016900032103'}
-INFO     src\utils\http_methods.py:http_methods.py:49 Response data: None
