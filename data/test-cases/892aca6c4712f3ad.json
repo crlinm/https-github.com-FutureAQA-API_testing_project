@@ -1,0 +1,77 @@
+{
+  "uid" : "892aca6c4712f3ad",
+  "name" : "get_finds_pets_by_status",
+  "fullName" : "tests.test_nata.test_pets.TestPet#test_get_finds_pets_by_status",
+  "historyId" : "0988f90b504e67c4a6f4b872a8a67ee3",
+  "time" : {
+    "start" : 1700009385356,
+    "stop" : 1700009385707,
+    "duration" : 351
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1700009372657,
+      "stop" : 1700009372671,
+      "duration" : 14
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "Test for pet"
+  }, {
+    "name" : "parentSuite",
+    "value" : "tests.test_nata"
+  }, {
+    "name" : "suite",
+    "value" : "test_pets"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPet"
+  }, {
+    "name" : "host",
+    "value" : "fv-az1493-508"
+  }, {
+    "name" : "thread",
+    "value" : "2322-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_nata.test_pets"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "status",
+    "value" : "'sold'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "892aca6c4712f3ad.json",
+  "parameterValues" : [ "'sold'" ]
+}

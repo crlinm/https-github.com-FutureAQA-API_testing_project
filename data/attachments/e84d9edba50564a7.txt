@@ -1,0 +1,1 @@
+INFO     src\utils\http_methods.py:http_methods.py:49 Response data: {'name': 'Max', 'photoUrls': ['https://example.com/image1.jpg'], 'id': '9223372016900061979', 'category': {'id': 95179898, 'name': 'Tonkinese'}, 'tags': [{'id': 716874, 'name': 'Russian Blue'}, {'id': 57586205, 'name': 'Shiba Inu'}], 'status': 'available'}
