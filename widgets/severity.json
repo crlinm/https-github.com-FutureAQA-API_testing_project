@@ -1,700 +1,700 @@
 [ {
-  "uid" : "747af4f0907b023e",
-  "name" : "Get pet by status > response is JSON format",
-  "time" : {
-    "start" : 1700268537536,
-    "stop" : 1700268537605,
-    "duration" : 69
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "9c9c2c55ee3f9514",
-  "name" : "post_uploads_an_image_pet",
-  "time" : {
-    "start" : 1700268535763,
-    "stop" : 1700268535763,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "8ab8a303b72450d2",
-  "name" : "get_finds_pets_by_status",
-  "time" : {
-    "start" : 1700268535299,
-    "stop" : 1700268535484,
-    "duration" : 185
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5943921ab7d45bb5",
-  "name" : "put_update_an_existing_pet",
-  "time" : {
-    "start" : 1700268535834,
-    "stop" : 1700268535903,
-    "duration" : 69
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "67aad2e71e1d2260",
-  "name" : "test_get_pets_by_status_available",
-  "time" : {
-    "start" : 1700268534815,
-    "stop" : 1700268534881,
-    "duration" : 66
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ef29775e1231b6ae",
-  "name" : "test_get_by_status_pending",
-  "time" : {
-    "start" : 1700268536073,
-    "stop" : 1700268536139,
-    "duration" : 66
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4ce85cdea0d00a61",
-  "name" : "test_delate_user_by_user_name_positive",
-  "time" : {
-    "start" : 1700268536209,
-    "stop" : 1700268536346,
-    "duration" : 137
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3cd74a3e29dfe989",
-  "name" : "test_get_pets_check_keys",
-  "time" : {
-    "start" : 1700268534343,
-    "stop" : 1700268534421,
-    "duration" : 78
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8a4da1c5bdd23b62",
-  "name" : "Add a new pet > status code 200",
-  "time" : {
-    "start" : 1700268538588,
-    "stop" : 1700268538832,
-    "duration" : 244
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4d0775bc9558f3af",
-  "name" : "post_add_a_new_pet_to_the_store",
-  "time" : {
-    "start" : 1700268535559,
-    "stop" : 1700268535559,
-    "duration" : 0
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "9b8ad659f6fef3c7",
-  "name" : "test_create_new_pet",
-  "time" : {
-    "start" : 1700268534589,
-    "stop" : 1700268534658,
-    "duration" : 69
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c5fdc02294c6adb3",
-  "name" : "test_create_new_pet_check_status_code",
-  "time" : {
-    "start" : 1700268534490,
-    "stop" : 1700268534587,
-    "duration" : 97
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a0d9ac0d272e5439",
-  "name" : "test_get_purchase_by_id",
-  "time" : {
-    "start" : 1700268532533,
-    "stop" : 1700268532599,
-    "duration" : 66
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "238be75c1a4b2e9d",
-  "name" : "Create store with valid data has status code 200",
-  "time" : {
-    "start" : 1700268532122,
-    "stop" : 1700268532210,
-    "duration" : 88
-  },
-  "status" : "broken",
-  "severity" : "critical"
-}, {
-  "uid" : "ffd388145c84c1ca",
-  "name" : "Get pet by invalid status > Not Found error message",
-  "time" : {
-    "start" : 1700268537681,
-    "stop" : 1700268537783,
-    "duration" : 102
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "15284d2a619c80a1",
-  "name" : "test_delete_pet",
-  "time" : {
-    "start" : 1700268532601,
-    "stop" : 1700268532696,
-    "duration" : 95
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a75f358a7184a1df",
-  "name" : "test_update_users_positive",
-  "time" : {
-    "start" : 1700268536761,
-    "stop" : 1700268537023,
-    "duration" : 262
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3d8aabd3cb62676",
-  "name" : "test_get_pets_is_json",
-  "time" : {
-    "start" : 1700268532867,
-    "stop" : 1700268532937,
-    "duration" : 70
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c128e6b5c8d6ec17",
-  "name" : "test_get_pets_check_keys",
-  "time" : {
-    "start" : 1700268534422,
-    "stop" : 1700268534488,
-    "duration" : 66
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "72b094c51cbaa6e0",
-  "name" : "test_delete_pet_has_text",
-  "time" : {
-    "start" : 1700268532697,
-    "stop" : 1700268532780,
-    "duration" : 83
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6679f5eb2d6c9d7c",
-  "name" : "test_get_pets_by_status_sold",
-  "time" : {
-    "start" : 1700268534953,
-    "stop" : 1700268535018,
-    "duration" : 65
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "18c47719acb8c4c2",
-  "name" : "get_finds_pets_by_status",
-  "time" : {
-    "start" : 1700268535182,
-    "stop" : 1700268535297,
-    "duration" : 115
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "884ce055be5448f9",
-  "name" : "test_delate_users_by_non_existent_username_negative",
-  "time" : {
-    "start" : 1700268536418,
-    "stop" : 1700268536484,
-    "duration" : 66
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "67cfe101c01c0428",
-  "name" : "test_get_pets_by_status_sold",
-  "time" : {
-    "start" : 1700268531902,
-    "stop" : 1700268532002,
-    "duration" : 100
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5c927548898c08a4",
-  "name" : "test_get_pets_check_keys",
-  "time" : {
-    "start" : 1700268534261,
-    "stop" : 1700268534342,
-    "duration" : 81
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3c26b4b33d18fa0b",
-  "name" : "test_get_pets_by_status_pending",
-  "time" : {
-    "start" : 1700268534883,
-    "stop" : 1700268534951,
-    "duration" : 68
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "77976f2e04a95c66",
-  "name" : "Create pet > Expected pet values in response",
-  "time" : {
-    "start" : 1700268539076,
-    "stop" : 1700268539145,
-    "duration" : 69
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f2013a400c4305a6",
+  "uid" : "755ead4bcdeffc0b",
   "name" : "Get pet by status > status code 200",
   "time" : {
-    "start" : 1700268537265,
-    "stop" : 1700268537359,
-    "duration" : 94
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4be77d269d9a2637",
-  "name" : "Get pet by status > status code 200",
-  "time" : {
-    "start" : 1700268537164,
-    "stop" : 1700268537263,
-    "duration" : 99
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7429cf20573f45b7",
-  "name" : "test_get_user_by_user_name",
-  "time" : {
-    "start" : 1700268532442,
-    "stop" : 1700268532532,
-    "duration" : 90
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "66dff681d8b3f043",
-  "name" : "test_update_pet",
-  "time" : {
-    "start" : 1700268534738,
-    "stop" : 1700268534813,
-    "duration" : 75
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "81185c2be8eba693",
-  "name" : "test_get_users_by_non_existent_username_negative",
-  "time" : {
-    "start" : 1700268536620,
-    "stop" : 1700268536690,
-    "duration" : 70
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "99ed83186b517d64",
-  "name" : "get_finds_pets_by_status",
-  "time" : {
-    "start" : 1700268535089,
-    "stop" : 1700268535181,
-    "duration" : 92
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "61f8ca5581a9586c",
-  "name" : "test_get_pets_by_status",
-  "time" : {
-    "start" : 1700268533616,
-    "stop" : 1700268533705,
-    "duration" : 89
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d0f299bde85ec6f8",
-  "name" : "Add a new pet > Expected pet keys in response",
-  "time" : {
-    "start" : 1700268538927,
-    "stop" : 1700268539005,
-    "duration" : 78
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f04f8426ceb9d122",
-  "name" : "test_get_pets_check_status",
-  "time" : {
-    "start" : 1700268533883,
-    "stop" : 1700268534121,
-    "duration" : 238
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7cff7b33e40e683c",
-  "name" : "test_get_pets_check_status",
-  "time" : {
-    "start" : 1700268534195,
-    "stop" : 1700268534259,
-    "duration" : 64
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d07da25bfb0b04ca",
-  "name" : "test_get_by_status_available",
-  "time" : {
-    "start" : 1700268536003,
-    "stop" : 1700268536072,
-    "duration" : 69
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "fea73d01b8fa2f5",
-  "name" : "test_get_find_pets_by_status_pending",
-  "time" : {
-    "start" : 1700268532214,
-    "stop" : 1700268532292,
-    "duration" : 78
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ef982aff105ed9a8",
-  "name" : "get_pet_by_id",
-  "time" : {
-    "start" : 1700268535625,
-    "stop" : 1700268535694,
-    "duration" : 69
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "dd1af53c5c0386e7",
-  "name" : "Get pet by ID > non existing ID > error messages is 'Pet not found'",
-  "time" : {
-    "start" : 1700268538014,
-    "stop" : 1700268538094,
+    "start" : 1700355212141,
+    "stop" : 1700355212221,
     "duration" : 80
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "1b6b252aeb4dbd9b",
-  "name" : "test_get_find_pets_by_id",
+  "uid" : "5a06c7d6fb6456f5",
+  "name" : "Get pet by ID > valid ID > status code is 200",
   "time" : {
-    "start" : 1700268532375,
-    "stop" : 1700268532441,
-    "duration" : 66
+    "start" : 1700355212669,
+    "stop" : 1700355212839,
+    "duration" : 170
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "d0f228f1a44b3164",
-  "name" : "test_get_pets_by_status_available",
+  "uid" : "45c4e35afc9a9bdc",
+  "name" : "get_finds_pets_by_status",
   "time" : {
-    "start" : 1700268535905,
-    "stop" : 1700268536002,
-    "duration" : 97
+    "start" : 1700355209636,
+    "stop" : 1700355209706,
+    "duration" : 70
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "7e39879cc7db4bee",
-  "name" : "test_example",
+  "uid" : "23b83f9a5f21a748",
+  "name" : "test_create_new_pet_check_status_code",
   "time" : {
-    "start" : 1700268532004,
-    "stop" : 1700268532093,
-    "duration" : 89
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "27edfff1ac63bb45",
-  "name" : "test_delete_deleted_pet",
-  "time" : {
-    "start" : 1700268532781,
-    "stop" : 1700268532866,
+    "start" : 1700355208636,
+    "stop" : 1700355208721,
     "duration" : 85
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "9e4c0e119aee375d",
-  "name" : "test_get_pets_by_status_error_adress",
+  "uid" : "e1cdfd201f764a12",
+  "name" : "test_delete_pet_has_text",
   "time" : {
-    "start" : 1700268535020,
-    "stop" : 1700268535087,
-    "duration" : 67
+    "start" : 1700355207283,
+    "stop" : 1700355207384,
+    "duration" : 101
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "1850ea79b3efc1c2",
-  "name" : "Get pet by ID > deleted pet > status code is 404",
+  "uid" : "426359a52a9a9a19",
+  "name" : "test_get_pets_check_status",
   "time" : {
-    "start" : 1700268538095,
-    "stop" : 1700268538345,
-    "duration" : 250
+    "start" : 1700355208284,
+    "stop" : 1700355208369,
+    "duration" : 85
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "cb79285d0c4fdc42",
-  "name" : "Get pet by status > response is JSON format",
+  "uid" : "dcaf618879a0b96",
+  "name" : "test_get_pets_by_status",
   "time" : {
-    "start" : 1700268537360,
-    "stop" : 1700268537437,
-    "duration" : 77
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6dd3780fe931fac",
-  "name" : "Get pet by invalid status > status code 400",
-  "time" : {
-    "start" : 1700268537607,
-    "stop" : 1700268537679,
+    "start" : 1700355207955,
+    "stop" : 1700355208027,
     "duration" : 72
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "f116e06f7ebfdb38",
-  "name" : "test_get_users_by_empty_username__negative",
+  "uid" : "13983b9743f5aadb",
+  "name" : "test_get_purchase_by_id",
   "time" : {
-    "start" : 1700268536692,
-    "stop" : 1700268536760,
-    "duration" : 68
+    "start" : 1700355206985,
+    "stop" : 1700355207190,
+    "duration" : 205
   },
-  "status" : "passed",
+  "status" : "skipped",
   "severity" : "normal"
 }, {
-  "uid" : "32e0bfee57d91519",
-  "name" : "Get pet by status > response is JSON format",
-  "time" : {
-    "start" : 1700268537439,
-    "stop" : 1700268537534,
-    "duration" : 95
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "60c27052ac392911",
-  "name" : "test_get_pets_is_json",
-  "time" : {
-    "start" : 1700268533410,
-    "stop" : 1700268533614,
-    "duration" : 204
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "10adc009d7624f2d",
-  "name" : "test_get_users_by_username_positive",
-  "time" : {
-    "start" : 1700268536486,
-    "stop" : 1700268536618,
-    "duration" : 132
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "19962e09d8bc5169",
-  "name" : "test_delate_users_by_empty_username_negative",
-  "time" : {
-    "start" : 1700268536347,
-    "stop" : 1700268536417,
-    "duration" : 70
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3ca4c5c591b71f80",
+  "uid" : "48301836a4e0261e",
   "name" : "test_get_find_pets_by_status_sold",
   "time" : {
-    "start" : 1700268532293,
-    "stop" : 1700268532374,
-    "duration" : 81
+    "start" : 1700355206455,
+    "stop" : 1700355206526,
+    "duration" : 71
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "c10ebc19fcfb7d99",
-  "name" : "test_get_pets_by_status",
+  "uid" : "b175df1d0724835",
+  "name" : "test_delete_pet",
   "time" : {
-    "start" : 1700268533788,
-    "stop" : 1700268533882,
-    "duration" : 94
+    "start" : 1700355207193,
+    "stop" : 1700355207281,
+    "duration" : 88
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "885e1142d8c83862",
-  "name" : "Add a new pet > Expected pet name in response",
+  "uid" : "7d75b4639555c76c",
+  "name" : "Create pet > Expected pet values in response",
   "time" : {
-    "start" : 1700268539007,
-    "stop" : 1700268539074,
-    "duration" : 67
+    "start" : 1700355213803,
+    "stop" : 1700355213886,
+    "duration" : 83
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "547920a278bc7b55",
-  "name" : "test_get_find_by_status",
+  "uid" : "c28990b887205654",
+  "name" : "test_get_by_status_pending",
   "time" : {
-    "start" : 1700268536140,
-    "stop" : 1700268536207,
-    "duration" : 67
+    "start" : 1700355210727,
+    "stop" : 1700355210798,
+    "duration" : 71
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "5aba95eebe40293e",
-  "name" : "Get pet by ID > valid ID > status code is 200",
+  "uid" : "6f18e04389785775",
+  "name" : "test_create_new_pet",
   "time" : {
-    "start" : 1700268537785,
-    "stop" : 1700268537940,
-    "duration" : 155
+    "start" : 1700355208722,
+    "stop" : 1700355208822,
+    "duration" : 100
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "ba913edcab33dead",
-  "name" : "test_update_pet_check_status_code",
+  "uid" : "e722674445a96db0",
+  "name" : "post_uploads_an_image_pet",
   "time" : {
-    "start" : 1700268534659,
-    "stop" : 1700268534737,
-    "duration" : 78
+    "start" : 1700355210395,
+    "stop" : 1700355210396,
+    "duration" : 1
   },
-  "status" : "passed",
+  "status" : "skipped",
   "severity" : "normal"
 }, {
-  "uid" : "7fc4e1c4f23b7206",
-  "name" : "Get pet by status > status code 200",
-  "time" : {
-    "start" : 1700268537095,
-    "stop" : 1700268537163,
-    "duration" : 68
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c53b6bab1fc97e27",
+  "uid" : "3cacf96b02133ec6",
   "name" : "Get pet by ID > non existing ID > status code is 404",
   "time" : {
-    "start" : 1700268537942,
-    "stop" : 1700268538012,
+    "start" : 1700355212841,
+    "stop" : 1700355212912,
+    "duration" : 71
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4a97f216dad80dab",
+  "name" : "Get pet by status > response is JSON format",
+  "time" : {
+    "start" : 1700355212446,
+    "stop" : 1700355212516,
     "duration" : 70
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "7aa75af97f97497f",
-  "name" : "test_get_pets_is_json",
+  "uid" : "d5c1ea3b02110495",
+  "name" : "get_finds_pets_by_status",
   "time" : {
-    "start" : 1700268532938,
-    "stop" : 1700268533408,
-    "duration" : 470
+    "start" : 1700355209780,
+    "stop" : 1700355209852,
+    "duration" : 72
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "d0ca9f3857cff1af",
+  "uid" : "42803739f1a72d71",
   "name" : "Add a new pet > Response is in json format",
   "time" : {
-    "start" : 1700268538834,
-    "stop" : 1700268538925,
-    "duration" : 91
+    "start" : 1700355213552,
+    "stop" : 1700355213638,
+    "duration" : 86
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "cbfe4faaa8e20c78",
-  "name" : "test_update_users_negative",
+  "uid" : "1410081adfeb884b",
+  "name" : "test_delete_deleted_pet",
   "time" : {
-    "start" : 1700268537025,
-    "stop" : 1700268537094,
-    "duration" : 69
+    "start" : 1700355207386,
+    "stop" : 1700355207472,
+    "duration" : 86
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "24f98886b438a196",
-  "name" : "test_get_pets_by_status",
+  "uid" : "4a525e77d65d6d72",
+  "name" : "test_get_users_by_username_positive",
   "time" : {
-    "start" : 1700268533707,
-    "stop" : 1700268533786,
+    "start" : 1700355211163,
+    "stop" : 1700355211327,
+    "duration" : 164
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "17383ef964dc5ddd",
+  "name" : "test_get_users_by_empty_username__negative",
+  "time" : {
+    "start" : 1700355211398,
+    "stop" : 1700355211477,
     "duration" : 79
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "4cb57e606d68c48d",
+  "uid" : "f15ed31ba03ca76f",
+  "name" : "test_get_find_by_status",
+  "time" : {
+    "start" : 1700355210799,
+    "stop" : 1700355210868,
+    "duration" : 69
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "88461a92feab8533",
+  "name" : "get_pet_by_id",
+  "time" : {
+    "start" : 1700355210211,
+    "stop" : 1700355210309,
+    "duration" : 98
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ec2091b0c49603da",
+  "name" : "test_update_users_positive",
+  "time" : {
+    "start" : 1700355211479,
+    "stop" : 1700355211970,
+    "duration" : 491
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1eb8e72f551612f9",
+  "name" : "test_update_pet",
+  "time" : {
+    "start" : 1700355208929,
+    "stop" : 1700355209178,
+    "duration" : 249
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9ae39758f21acae4",
+  "name" : "test_get_pets_by_status_error_adress",
+  "time" : {
+    "start" : 1700355209566,
+    "stop" : 1700355209634,
+    "duration" : 68
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eddb28fe0869d6e9",
+  "name" : "test_get_pets_by_status_sold",
+  "time" : {
+    "start" : 1700355209498,
+    "stop" : 1700355209565,
+    "duration" : 67
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cf8314f5cff26383",
+  "name" : "test_get_pets_check_status",
+  "time" : {
+    "start" : 1700355208131,
+    "stop" : 1700355208211,
+    "duration" : 80
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e55072be66905a92",
+  "name" : "test_get_pets_by_status_available",
+  "time" : {
+    "start" : 1700355209180,
+    "stop" : 1700355209250,
+    "duration" : 70
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e034a184403f4459",
+  "name" : "Add a new pet > Expected pet keys in response",
+  "time" : {
+    "start" : 1700355213640,
+    "stop" : 1700355213714,
+    "duration" : 74
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "72107fc060faddbf",
+  "name" : "test_get_pets_is_json",
+  "time" : {
+    "start" : 1700355207474,
+    "stop" : 1700355207560,
+    "duration" : 86
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5a16b1beece15d9f",
+  "name" : "post_add_a_new_pet_to_the_store",
+  "time" : {
+    "start" : 1700355209924,
+    "stop" : 1700355209924,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fc96dcf6711939ea",
+  "name" : "Get pet by status > status code 200",
+  "time" : {
+    "start" : 1700355212223,
+    "stop" : 1700355212292,
+    "duration" : 69
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ae1264136d591271",
+  "name" : "Get pet by ID > deleted pet > Pet not found error message",
+  "time" : {
+    "start" : 1700355213239,
+    "stop" : 1700355213464,
+    "duration" : 225
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9e97c40bf1ad02c9",
+  "name" : "Get pet by invalid status > Not Found error message",
+  "time" : {
+    "start" : 1700355212592,
+    "stop" : 1700355212667,
+    "duration" : 75
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b863e6d0974075bb",
+  "name" : "test_update_pet_check_status_code",
+  "time" : {
+    "start" : 1700355208825,
+    "stop" : 1700355208928,
+    "duration" : 103
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "10c53cec4b0ec762",
   "name" : "Create pet with valid data has status code 200",
   "time" : {
-    "start" : 1700268532094,
-    "stop" : 1700268532094,
+    "start" : 1700355206208,
+    "stop" : 1700355206208,
     "duration" : 0
   },
   "status" : "broken",
   "severity" : "critical"
 }, {
-  "uid" : "283cebfcbd4d457",
-  "name" : "Get pet by ID > deleted pet > Pet not found error message",
+  "uid" : "e6c9e4098244d9f4",
+  "name" : "test_get_users_by_non_existent_username_negative",
   "time" : {
-    "start" : 1700268538347,
-    "stop" : 1700268538586,
-    "duration" : 239
+    "start" : 1700355211329,
+    "stop" : 1700355211396,
+    "duration" : 67
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "d16d7b4f8f9ffe54",
+  "uid" : "f351fa554633cd21",
+  "name" : "Get pet by status > response is JSON format",
+  "time" : {
+    "start" : 1700355212376,
+    "stop" : 1700355212444,
+    "duration" : 68
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7947bd2eb980a874",
+  "name" : "test_get_pets_by_status_available",
+  "time" : {
+    "start" : 1700355210569,
+    "stop" : 1700355210647,
+    "duration" : 78
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "28f6617573ea3171",
+  "name" : "test_get_pets_by_status_sold",
+  "time" : {
+    "start" : 1700355205910,
+    "stop" : 1700355205994,
+    "duration" : 84
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9a92b81190910b8e",
+  "name" : "Add a new pet > status code 200",
+  "time" : {
+    "start" : 1700355213466,
+    "stop" : 1700355213550,
+    "duration" : 84
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fa93bd3126d2e9c5",
+  "name" : "test_get_pets_check_keys",
+  "time" : {
+    "start" : 1700355208370,
+    "stop" : 1700355208476,
+    "duration" : 106
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "292dca2d7c37ceaa",
   "name" : "test_get_pets_by_status_pending",
   "time" : {
-    "start" : 1700268531810,
-    "stop" : 1700268531901,
-    "duration" : 91
+    "start" : 1700355209252,
+    "stop" : 1700355209496,
+    "duration" : 244
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "ef5396a812432cb9",
+  "uid" : "c6a733890a756d36",
+  "name" : "test_delate_user_by_user_name_positive",
+  "time" : {
+    "start" : 1700355210869,
+    "stop" : 1700355211021,
+    "duration" : 152
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "389a01451273e962",
+  "name" : "test_get_pets_check_keys",
+  "time" : {
+    "start" : 1700355208478,
+    "stop" : 1700355208550,
+    "duration" : 72
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "be6656e0a8618acb",
+  "name" : "test_get_pets_by_status_pending",
+  "time" : {
+    "start" : 1700355205659,
+    "stop" : 1700355205908,
+    "duration" : 249
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "edeade721e060fe",
+  "name" : "test_get_pets_is_json",
+  "time" : {
+    "start" : 1700355207760,
+    "stop" : 1700355207855,
+    "duration" : 95
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "17abd514e8e9b75d",
+  "name" : "Get pet by status > status code 200",
+  "time" : {
+    "start" : 1700355212043,
+    "stop" : 1700355212140,
+    "duration" : 97
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6bd5006b5c05e5d2",
+  "name" : "put_update_an_existing_pet",
+  "time" : {
+    "start" : 1700355210497,
+    "stop" : 1700355210566,
+    "duration" : 69
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b739d69cd6a1bdb7",
+  "name" : "Add a new pet > Expected pet name in response",
+  "time" : {
+    "start" : 1700355213717,
+    "stop" : 1700355213801,
+    "duration" : 84
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d922e222d4aba2a7",
+  "name" : "test_get_find_pets_by_status_pending",
+  "time" : {
+    "start" : 1700355206337,
+    "stop" : 1700355206453,
+    "duration" : 116
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e5719cf8ea25329f",
+  "name" : "test_example",
+  "time" : {
+    "start" : 1700355205996,
+    "stop" : 1700355206206,
+    "duration" : 210
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "12e2ff551d078a24",
+  "name" : "Get pet by status > response is JSON format",
+  "time" : {
+    "start" : 1700355212294,
+    "stop" : 1700355212374,
+    "duration" : 80
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "243a782a7c2a0e47",
+  "name" : "test_get_user_by_user_name",
+  "time" : {
+    "start" : 1700355206737,
+    "stop" : 1700355206983,
+    "duration" : 246
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1205adec42d0ba80",
+  "name" : "Create store with valid data has status code 200",
+  "time" : {
+    "start" : 1700355206236,
+    "stop" : 1700355206333,
+    "duration" : 97
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "f57ada2a6c58d7b0",
+  "name" : "test_get_pets_by_status",
+  "time" : {
+    "start" : 1700355207857,
+    "stop" : 1700355207953,
+    "duration" : 96
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "63a41af8d4f09331",
+  "name" : "test_get_pets_by_status",
+  "time" : {
+    "start" : 1700355208029,
+    "stop" : 1700355208129,
+    "duration" : 100
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a34aa296363607e",
+  "name" : "get_finds_pets_by_status",
+  "time" : {
+    "start" : 1700355209708,
+    "stop" : 1700355209778,
+    "duration" : 70
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "89fd7b98f0d90e11",
   "name" : "test_get_pets_check_status",
   "time" : {
-    "start" : 1700268534123,
-    "stop" : 1700268534193,
+    "start" : 1700355208212,
+    "stop" : 1700355208282,
     "duration" : 70
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "87fc6b0dafc49335",
+  "name" : "test_get_by_status_available",
+  "time" : {
+    "start" : 1700355210648,
+    "stop" : 1700355210725,
+    "duration" : 77
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "18ff113bce83cf1a",
+  "name" : "test_get_pets_check_keys",
+  "time" : {
+    "start" : 1700355208552,
+    "stop" : 1700355208635,
+    "duration" : 83
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "538f9d26473d3fa6",
+  "name" : "test_delate_users_by_empty_username_negative",
+  "time" : {
+    "start" : 1700355211023,
+    "stop" : 1700355211092,
+    "duration" : 69
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5cd3c91e33df810e",
+  "name" : "Get pet by invalid status > status code 400",
+  "time" : {
+    "start" : 1700355212518,
+    "stop" : 1700355212590,
+    "duration" : 72
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "da3ac39858d26e59",
+  "name" : "Get pet by ID > non existing ID > error messages is 'Pet not found'",
+  "time" : {
+    "start" : 1700355212914,
+    "stop" : 1700355213013,
+    "duration" : 99
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "499b7927994e1ac4",
+  "name" : "test_delate_users_by_non_existent_username_negative",
+  "time" : {
+    "start" : 1700355211093,
+    "stop" : 1700355211161,
+    "duration" : 68
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3b8b32f9f9ce4eee",
+  "name" : "test_update_users_negative",
+  "time" : {
+    "start" : 1700355211972,
+    "stop" : 1700355212041,
+    "duration" : 69
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "69a15a7d4f7bfc62",
+  "name" : "test_get_find_pets_by_id",
+  "time" : {
+    "start" : 1700355206528,
+    "stop" : 1700355206735,
+    "duration" : 207
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "289a7f39490a8066",
+  "name" : "Get pet by ID > deleted pet > status code is 404",
+  "time" : {
+    "start" : 1700355213015,
+    "stop" : 1700355213237,
+    "duration" : 222
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f1d3a4cb11f44440",
+  "name" : "test_get_pets_is_json",
+  "time" : {
+    "start" : 1700355207562,
+    "stop" : 1700355207758,
+    "duration" : 196
   },
   "status" : "passed",
   "severity" : "normal"
