@@ -1,0 +1,89 @@
+{
+  "uid" : "bd86887fb0a19ece",
+  "name" : "get_pet_by_id",
+  "fullName" : "tests.test_nata.test_pets.TestPet#test_get_pet_by_id",
+  "historyId" : "62391eb6db45ce1473f0f8211d12e568",
+  "time" : {
+    "start" : 1701046229264,
+    "stop" : 1701046229334,
+    "duration" : 70
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "add_new_pet",
+    "time" : {
+      "start" : 1701046229185,
+      "stop" : 1701046229264,
+      "duration" : 79
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1701046225282,
+      "stop" : 1701046225296,
+      "duration" : 14
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "Test for pet"
+  }, {
+    "name" : "parentSuite",
+    "value" : "tests.test_nata"
+  }, {
+    "name" : "suite",
+    "value" : "test_pets"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPet"
+  }, {
+    "name" : "host",
+    "value" : "fv-az847-548"
+  }, {
+    "name" : "thread",
+    "value" : "2301-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_nata.test_pets"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bd86887fb0a19ece.json",
+  "parameterValues" : [ ]
+}
